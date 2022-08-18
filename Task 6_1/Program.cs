@@ -1,5 +1,5 @@
 ﻿int a = 4;
-if (a % 2 = 0)
+if (a % 2 == 0)
 {
     Console.Write("Да");
 }
