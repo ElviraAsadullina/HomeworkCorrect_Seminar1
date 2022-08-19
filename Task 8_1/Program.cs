@@ -1,4 +1,4 @@
-﻿int N = 5;
+﻿int N = Convert.ToInt32(Console.ReadLine());
 int start = 2;
 while (start <= N)
 {
