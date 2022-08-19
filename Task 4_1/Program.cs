@@ -1,6 +1,6 @@
-﻿int a = 2;
-int b = 3;
-int c = 7;
+﻿int a = Convert.ToInt32(Console.ReadLine());
+int b = Convert.ToInt32(Console.ReadLine());
+int c = Convert.ToInt32(Console.ReadLine());
 int max = a;
 if (max < b)
 {
